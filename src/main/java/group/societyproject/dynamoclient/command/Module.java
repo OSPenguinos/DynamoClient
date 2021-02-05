@@ -21,7 +21,7 @@ public class Module {
         }
     }
 
-    ///wether it is on or off
+    ///Whether it is on or off
     protected boolean state = false;
 
     protected void onEnabled() {
